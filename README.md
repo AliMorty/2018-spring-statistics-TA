@@ -11,7 +11,6 @@ This course is taught by Dr.Heari. My main task includes: <br>
     * Bootstrap as a way to estimate a Statistic and then construct a confidence interval.
     * Random Walk
 
-teach extra content for enthusiastic students. 
 Assignments has two parts. 
 > Questions<br>
 > Computer Experiment<br>
