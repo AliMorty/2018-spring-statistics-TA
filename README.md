@@ -2,12 +2,12 @@
 This course is taught by Dr.Heari. My main task was Creating assignments and holding classes for extra explanation.
 
 
-This course is taught by Dr.Heari. My main task was includes: <br>
+This course is taught by Dr.Heari. My main task includes: <br>
 * Creating and designing assignments 
 * Conducting classes for students, in which extra content and concepts were presented. Such as:
-** Probabilitic Cache Schedule Algorithms
+** Probabilistic Cache Schedule Algorithms
 ** Naive Bayes Classifier as a simple example of PGMs
-** Why we use MSE? Proofing that A Maximum Likelyhood Estimation with gussian noise is equal to minimzing the MSE
+** Why we use MSE? Proofing that A Maximum Likelihood Estimation with Gaussian noise is equal to minimizing the MSE
 ** Bootstrap as a way to estimate a Statistic and then construct a confidence interval.
 ** Random Walk
 
